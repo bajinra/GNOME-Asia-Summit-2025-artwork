@@ -4,3 +4,4 @@ Install the following font for best view: [Source Sans 3](https://fonts.google.c
 
 Template also available at [Google Slide](https://docs.google.com/presentation/d/12tOywqpZlisIAItNcpzxkxBPfQxNnWCME_n2-i3WNLQ/edit?usp=sharing)
 
+Note: The logo was made by someone else. I only made the slide template.
